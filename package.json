@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio15-localstorage",
+  "version": "1.0.0",
+  "description": "Modulo 15 Ejercicio 1 Persistencia de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Agustin Godoy",
+  "license": "ISC"
+}
